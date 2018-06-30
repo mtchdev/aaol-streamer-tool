@@ -1,12 +1,15 @@
 {
-  "name": "src",
+  "name": "aaol-streamer-tool",
   "version": "0.1.0",
   "private": true,
+  "main": "electron.js",
   "dependencies": {
+    "electron": "^2.0.3",
     "electron-titlebar": "0.0.3",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "react-window-titlebar": "^1.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
