@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/whenofficial/aaol-streamer-tool#readme",
   "dependencies": {
-    "electron": "^2.0.3",
-    "electron-titlebar-windows": "^3.0.0"
+    "electron": "^2.0.3"
   }
 }
