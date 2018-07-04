@@ -1,0 +1,23 @@
+{
+  "name": "aaol-streamer-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whenofficial/aaol-streamer-tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whenofficial/aaol-streamer-tool/issues"
+  },
+  "homepage": "https://github.com/whenofficial/aaol-streamer-tool#readme",
+  "dependencies": {
+    "electron": "^2.0.4"
+  }
+}
