@@ -10,13 +10,7 @@ class Main extends Component {
     render() { 
         return ( 
             <div className="row">
-                <div className="col s4">
-                    <h1 className="title">Teams</h1>
-                </div>
                 <Countdown />
-                <div className="col s4">
-                    <h1 className="title">Scores</h1>
-                </div>
             </div>
          )
     }

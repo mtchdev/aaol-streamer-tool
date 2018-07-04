@@ -9,7 +9,7 @@ class Titlebar extends Component {
     render() { 
         return (   
             <div class="ui-titlebar">
-                <div class="ui-titletext">AAOL Streamer Tools</div>
+                <div class="ui-titletext">OBS Countdown</div>
                 <div class="ui-titlecontrols">
                     <button class="ui-btn minimize">
                         <svg x="0px" y="0px" viewBox="0 0 10.2 1"><rect x="0" y="50%" width="10.2" height="1" /></svg>
