@@ -1,0 +1,6 @@
+body {
+    background: #3b3b3b;
+    color: #fff;
+    -webkit-user-select: none;
+    cursor: default;
+}
